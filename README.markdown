@@ -2,7 +2,9 @@
 
 ## Documentation
 
-Please see [the DDMathParser wiki](https://github.com/davedelong/DDMathParser/wiki) for up-to-date documentation. *Note, this wiki only supports the Swift version of DDMathParser, and the instructions there WILL NOT work with this version.*
+Please see [the DDMathParser wiki](https://github.com/davedelong/DDMathParser/wiki) for up-to-date documentation.
+
+*Note, the linked wiki only supports the Swift version of DDMathParser, and the instructions there WILL NOT work with this version.*
 
 ## License
 
